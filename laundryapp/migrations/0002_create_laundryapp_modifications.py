@@ -6,9 +6,9 @@ from django.db import migrations
 
 import os
 
-ENVS = ['SITE_NAME',
-        'SITE_DOMAIN',
-        'CLIENT_ID',
+ENVS = ['CLean Express',
+        'https://cleanexpress.herokuapp.com/accounts/login/',
+        'f68c4aefcf676306cdb02fd59f2569bb',
         'SECRET',
         'CALENDAR_NAME',
         'CALENDAR_SLUG',
